@@ -1,5 +1,3 @@
-package ProgramacionII.RegistroI.Semana1;
-
 public class HolaMundo { // esto
     public static void main(String[] args) {
         System.out.println("Hola Mundo");
